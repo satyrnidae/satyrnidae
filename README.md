@@ -22,5 +22,5 @@ Here are some ideas to get you started:
   - Discord: saturniidae#0421
   - Email: [isabel@satyrn.dev](mailto:isabel@satyrn.dev)
   - [LinkedIn](https://www.linkedin.com/in/isabel-maskrey-73936897/)
+  - [Buy me a coffee](https://ko-fi.com/satyrniidae)
 - 😄 Pronouns: [she/her](http://my.pronoun.is/she/her)
-- ⚡ Fun fact: I am currently unemployed!
