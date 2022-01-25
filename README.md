@@ -30,10 +30,12 @@ Here are some ideas to get you started:
   
 <details><summary>Minecraft Mods and Plugins</summary>
   
-- [Wolf Armor and Storage](https://github.com/satyrnidae/wolf-armor-and-storage) - Armor and backpacks for wolves in modern Minecraft!
-- [Wolf Armor and Storage Legacy](https://github.com/satyrnidae/wolf-armor-and-storage-legacy) - Armor and backpacks for wolves for Minecraft 1.12!
-- [Experience Economy](https://github.com/satyrnidae/xpeconomy) - No more fiat currencies! Use Experience as your server currency!
-- [Deep Cave Spiders](https://github.com/satyrnidae/deep-cave-spiders) - Caving has rarely been so toxic! Configurable cave spider spawns!
+- [Wolf Armor and Storage](https://github.com/satyrnidae/wolf-armor-and-storage) - (Fabric, Forge) Armor and backpacks for wolves in modern Minecraft!
+- [Wolf Armor and Storage Legacy](https://github.com/satyrnidae/wolf-armor-and-storage-legacy) - (Forge) Armor and backpacks for wolves for Minecraft 1.12!
+- [Experience Economy](https://github.com/satyrnidae/xpeconomy) - (Paper) No more fiat currencies! Use Experience as your server currency!
+- [Deep Cave Spiders](https://github.com/satyrnidae/deep-cave-spiders) - (Paper) Caving has rarely been so toxic! Configurable cave spider spawns!
+- [Sow What You Reap](https://github.com/satyrnidae/sow-what-you-reap) - (Paper) Right-click crops to harvest and replant them!
+- [Archers of Decay](https://github.com/satyrnidae/archers-of-decay) - (Paper) Adds Minecraft Dungeons-inspired Wither skeleton archers to the Nether!
 
 </details>
   
