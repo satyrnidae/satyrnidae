@@ -12,7 +12,7 @@
   - 📣 Twitter: [satyrnidae](https://twitter.com/satyrnidae)
   - ✉️ Email: [isabel@satyrn.dev](mailto:isabel@satyrn.dev)
   - 🤝🏻 [LinkedIn](https://www.linkedin.com/in/isabel-maskrey-73936897/)
-- 😄 Pronouns: [she/her](http://my.pronoun.is/she/her)
+- 🏳️‍⚧️ Pronouns: [she/her](http://my.pronoun.is/she/her)
 </details>
   
 <details><summary>Minecraft Mods and Plugins</summary>
