@@ -5,8 +5,8 @@
 
 <details><summary>About me</summary>
   
-- 🔭 I'm currently working on [Wolf Armor and Storage Legacy](https://github.com/satyrnidae/wolf-armor-and-storage-legacy)!
-- 🌱 I'm currenty learning how to use the [Architectury](https://github.com/architectury/architectury) framework!
+- 🔭 I'm currently working on [Foxcraft Dungeon Loot](https://github.com/satyrnidae/foxcraft-dungeon-loot-2)!
+- 🌱 I'm currenty learning how to create datapacks and custom structures!
 - 📫 How to reach me:
   - 🗨️ Discord: saturniidae#0421
   - 📣 Twitter: [satyrnidae](https://twitter.com/satyrnidae)
