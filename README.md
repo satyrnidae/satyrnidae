@@ -1,7 +1,7 @@
+## About me
+
 *Pronounced "saturniidae" (sa-turn-eye-ih-day)*
 ☕ [Buy me a coffee](https://ko-fi.com/satyrnidae)
-
-<details><summary>About me</summary>
   
 - 🔭 I'm currently working on [Foxcraft Dungeon Loot](https://github.com/satyrnidae/foxcraft-dungeon-loot-2)!
 - 🌱 I'm currenty learning how to create datapacks and custom structures!
@@ -11,7 +11,6 @@
   - ✉️ Email: [isabel@satyrn.dev](mailto:isabel@satyrn.dev)
   - 🤝🏻 [LinkedIn](https://www.linkedin.com/in/isabel-maskrey-73936897/)
 - 🏳️‍⚧️ Pronouns: [she/her](http://my.pronoun.is/she/her)
-</details>
   
 <details><summary>Minecraft Mods, Datapacks, and Plugins</summary>
 
