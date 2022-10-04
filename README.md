@@ -1,5 +1,3 @@
-[![satyrnidae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=satyrnidae&show_icons=true&theme=material-palenight&custom_title=satyrnidae%27s%20GitHub%20Stats)](https://github.com/anuraghazra/github-readme-stats)
-
 *Pronounced "saturniidae" (sa-turn-eye-ee-day)*
 ☕ [Buy me a coffee](https://ko-fi.com/satyrnidae)
 
