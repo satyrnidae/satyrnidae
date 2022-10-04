@@ -1,4 +1,4 @@
-*Pronounced "saturniidae" (sa-turn-eye-ee-day)*
+*Pronounced "saturniidae" (sa-turn-eye-ih-day)*
 ☕ [Buy me a coffee](https://ko-fi.com/satyrnidae)
 
 <details><summary>About me</summary>
