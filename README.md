@@ -7,7 +7,7 @@
 - 🌱 I'm currenty learning how to create datapacks and custom structures!
 - 📫 How to reach me:
   - 🗨️ Discord: saturniidae#0421
-  - 📣 Twitter: [satyrnidae](https://twitter.com/satyrnidae)
+  - 📣 Mastodon: <a rel="me" href="https://blahaj.zone/@saturniidae">@saturniidae@blahaj.zone</a>
   - ✉️ Email: [isabel@satyrn.dev](mailto:isabel@satyrn.dev)
   - 🤝🏻 [LinkedIn](https://www.linkedin.com/in/isabel-maskrey-73936897/)
 - 🏳️‍⚧️ Pronouns: [she/her](http://my.pronoun.is/she/her)
