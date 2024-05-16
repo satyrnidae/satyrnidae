@@ -4,10 +4,10 @@
 ☕ [Buy me a coffee](https://ko-fi.com/satyrnidae)
   
 - 🔭 I'm currently working on [Foxcraft Dungeon Loot](https://github.com/satyrnidae/foxcraft-dungeon-loot-2)!
-- 🌱 I'm currenty learning how to create datapacks and custom structures!
+- 🌱 I'm currenty learning vue.js!
 - 📫 How to reach me:
-  - 🗨️ Discord: saturniidae#0421
-  - 📣 Mastodon: <a rel="me" href="https://blahaj.zone/@saturniidae">@saturniidae (blahaj.zone)</a>
+  - 🗨️ Discord: @saturniidae
+  - 🦋 Bluesky: <a rel="me" href="https://bsky.app/profile/isabel.satyrn.dev">@isabel.satyrn.dev</a>
   - ✉️ Email: [isabel@satyrn.dev](mailto:isabel@satyrn.dev)
   - 🤝🏻 [LinkedIn](https://www.linkedin.com/in/isabel-maskrey-73936897/)
 - 🏳️‍⚧️ Pronouns: [she/her](http://my.pronoun.is/she/her)
