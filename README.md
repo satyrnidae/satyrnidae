@@ -5,7 +5,7 @@
   - [Early-Game Buckets](https://github.com/satyrnidae/early-game-buckets): Adding some new buckets to the game!
   - [Wolf Armor and Storage Legacy](https://github.com/satyrnidae/wolf-armor-and-storage-legacy): Protecting your wolves since 2015!
   - [Classic Obsidian Tools](https://github.com/satyrnidae/classic-obsidian-tools): A new implementation of a classic idea, unbreakable tools!
-  - [Copper Horns Redux](https://github.com/satyrnidae/copper-horns-redux): Implementing an abandoned bedrock feature in Java Edition!
+  - [Copper Horns Redux](https://github.com/satyrnidae/copper-goat-horns-redux): Implementing an abandoned bedrock feature in Java Edition!
 - 🌱 I'm currenty learning the [Architectury API](https://github.com/architectury)!
 - 📫 How to reach me:
   - 🗨️ Discord: @saturniidae
